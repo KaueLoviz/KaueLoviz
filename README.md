@@ -1,9 +1,19 @@
 ## Olá, me chamo Kauê Loviz, sou Técnico em Desenvolvimento de Sistemas 👋
+
+• 📅 19/05/2004 - 18 Anos
+
+• 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
+
+• 📚 Analise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul (UNICSUL)
+
+• 📧 klovizoliveira@gmail.com
+
 <div align="center">
   <a href="https://github.com/kaueloviz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaueloviz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueloviz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaueloviz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueloviz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
 <div style="display: flex"><br>
   <img align="center" alt="Kaue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaue-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -11,6 +21,7 @@
   <img align="center" alt="Kaue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35em" />
   <img align="center" alt="Kaue-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 </div>
