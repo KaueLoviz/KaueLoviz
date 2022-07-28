@@ -36,4 +36,13 @@
   
   ![Snake animation](https://github.com/KaueLoviz/KaueLoviz/blob/output/github-contribution-grid-snake.svg)
   
+  
 </div>
+
+##
+### :eyes: Profile Views
+<p align="center">
+
+
+![Visitor Count](https://profile-counter.glitch.me/{KaueLoviz}/count.svg)
+</p>
