@@ -1,10 +1,10 @@
-## Olá, me chamo Kauê Loviz, sou Técnico em Desenvolvimento de Sistemas 👋
+## Hello, my name is Kauê Loviz, I'm a Systems Development Technician 👋
 
-• 📅 19/05/2004 - 18 Anos
+• 📅 19/05/2004 - 18 Years
 
-• 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
+• 💻 Systems Development Technician (ETEC de Guaianazes - São Paulo, SP)
 
-• 📚 Analise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul (UNICSUL)
+• 📚 Systems Analysis and Development - University Cruzeiro do Sul (UNICSUL)
 
 • 📧 klovizoliveira@gmail.com
 
