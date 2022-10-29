@@ -6,7 +6,7 @@
 
 • 📚 Systems Analysis and Development - University Cruzeiro do Sul (UNICSUL)
 
-• 📧 klovizoliveira@gmail.com
+• 📧 kaueloviz04@gmail.com
 
 
 <div align="center">
