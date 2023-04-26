@@ -6,7 +6,7 @@
 
 • 💻 Systems Development Technician (ETEC de Guaianazes - São Paulo, SP)
 
-• 📚 Systems Analysis and Development - University Cruzeiro do Sul (UNICSUL)
+• 📚 Systems Analysis and Development - Universidade Cruzeiro do Sul (UNICSUL)
 
 • 📧 kaueloviz04@gmail.com
 
