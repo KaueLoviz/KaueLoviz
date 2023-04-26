@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3419e8&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=30&pause=1000&color=f1ecdf&center=true&width=456&lines=Hello+my+name+is+Kauê+Loviz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=30&pause=1000&color=eeeeee&center=true&width=456&lines=Hello+my+name+is+Kauê+Loviz)](https://git.io/typing-svg)
 
 • 📅 19/05/2004 - 18 Years
 
