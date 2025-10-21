@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=30&pause=1000&color=eeeeee&center=true&width=456&lines=Hello+my+name+is+Kauê+Loviz)](https://git.io/typing-svg)
 
-• 📅 19/05/2004 - 20 Years
+• 📅 19/05/2004 - 21 Years
 
 • 💻 Systems Development Technician (ETEC de Guaianazes - São Paulo, SP)
 
